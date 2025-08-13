@@ -3,7 +3,7 @@ import { SignIn } from "@clerk/nextjs";
 export const SignInView = () => {
   return (
     <div>
-      <SignIn></SignIn>
+      <SignIn routing="hash"></SignIn>
     </div>
   );
 };
