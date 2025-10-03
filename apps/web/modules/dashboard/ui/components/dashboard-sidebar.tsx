@@ -186,7 +186,7 @@ export const DashboardSidebar = () => {
                   userButtonTrigger:
                     "w-full! p-2! hover:bg-sidebar-accent! hover:text-sidebar-accent-foreground! group-data-[collapsible=icon]:size-8! group-data-[collapsible=icon]:p-2!",
                   userButtonBox:
-                    "w-full! flex-row-reverse! justify-end gap-2! group-data-[collapsible=icon]:justify-center! text-sidebar-foreground!",
+                    "w-full! flex-row-reverse! justify-end! gap-2! group-data-[collapsible=icon]:justify-center! text-sidebar-foreground!",
                   userButtonOuterIdentifier:
                     "pl-0! group-data-[collapsible=icon]:hidden! ",
                   avatarBox: "size-4!",
